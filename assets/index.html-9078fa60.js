@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as o,a as t}from"./app-6cd91074.js";const c={},r=t("p",null,"Born in 200X & Grew up in China.",-1),_=[r];function s(a,i){return n(),o("div",null,_)}const f=e(c,[["render",s],["__file","index.html.vue"]]);export{f as default};
