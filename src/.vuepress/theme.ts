@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Log More",
+  footer: "More & More",
 
   displayFooter: true,
 
@@ -45,8 +45,9 @@ export default hopeTheme({
   },
 
   // page meta
+  editLink: false,
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    // editLink: "在 GitHub 上编辑此页",
   },
 
   plugins: {
@@ -54,8 +55,9 @@ export default hopeTheme({
 
     comment: {
       // You should generate and use your own comment service
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
+      provider: "None",
+      // provider: "Waline",
+      // serverURL: "https://waline-comment.vuejs.press",
     },
 
     // all features are enabled for demo, only preserve features you need here
