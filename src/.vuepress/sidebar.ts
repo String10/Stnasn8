@@ -9,7 +9,5 @@ export default sidebar({
       prefix: "posts/",
       children: "structure",
     },
-    "intro",
-    "slides",
   ],
 });

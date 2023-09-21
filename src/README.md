@@ -8,6 +8,5 @@ heroText: STNASN8
 heroFullScreen: true
 tagline: Hi, I'm BoS!
 footer: There's Nobody.
+article: false
 ---
-
-Born in 200X & Grew up in China.

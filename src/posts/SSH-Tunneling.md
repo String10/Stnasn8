@@ -2,8 +2,7 @@
 title: SSH隧道
 author: B0
 date: 2023-08-22
-summary: SSH隧道中的正向连接与反向连接.
-category: LOG
+category: Tricks
 tag:
     - SSH
 ---
